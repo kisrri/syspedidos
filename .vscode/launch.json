@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SyspedidosApplication<syspedidos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.itilh.sistema.syspedidos.SyspedidosApplication",
+            "projectName": "syspedidos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
